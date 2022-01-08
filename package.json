@@ -3,6 +3,7 @@
 	"author": "Smeagol2069",
 	"description": "I am trying to learn how this works :)",
 	"keywords": ["freecodecamp", "Smeagol2069", "nodejs", "fullstack"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
