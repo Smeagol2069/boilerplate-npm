@@ -4,10 +4,9 @@
 	"description": "I am trying to learn how this works :)",
 	"keywords": ["freecodecamp", "Smeagol2069", "nodejs", "fullstack"],
 	"license": "MIT",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "2.10.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
