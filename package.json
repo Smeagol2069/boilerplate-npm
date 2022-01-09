@@ -4,6 +4,7 @@
 	"description": "I am trying to learn how this works :)",
 	"keywords": ["freecodecamp", "Smeagol2069", "nodejs", "fullstack"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
